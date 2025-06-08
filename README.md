@@ -2,6 +2,9 @@
 
 Este é um projeto simples de um quiz interativo desenvolvido em React Native. Ele permite que os usuários respondam a uma série de perguntas e, ao final, visualizem sua pontuação. Uma funcionalidade adicional implementada é a possibilidade de o usuário definir um tempo limite para a partida. Após o cronômetro zerar, o quiz é finalizado e a tela de resultados é exibida automaticamente.
 
+## Preview
+![Preview do Projeto](/assets/preview.png)
+
 ## Estrutura do Projeto
 
 * `.expo/`: Diretório com arquivos de configuração e cache do Expo.
